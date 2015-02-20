@@ -1,0 +1,165 @@
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Web.dll.config
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Web.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Web.pdb
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Antlr3.Runtime.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\EntityFramework.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\EntityFramework.SqlServer.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.AspNet.Identity.Core.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.Owin.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.Owin.Security.Cookies.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.Owin.Security.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.Owin.Security.Facebook.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.Owin.Security.Google.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.Owin.Security.OAuth.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.Owin.Security.Twitter.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Newtonsoft.Json.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Owin.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\System.Web.Helpers.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\System.Web.Mvc.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\System.Web.Optimization.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\System.Web.Razor.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\System.Web.WebPages.Deployment.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\System.Web.WebPages.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\System.Web.WebPages.Razor.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\WebGrease.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\EntityFramework.xml
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\EntityFramework.SqlServer.xml
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\System.Web.Helpers.xml
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\System.Web.Mvc.xml
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\System.Web.Optimization.xml
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\System.Web.Razor.xml
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\System.Web.WebPages.xml
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\System.Web.WebPages.Deployment.xml
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\System.Web.WebPages.Razor.xml
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Newtonsoft.Json.xml
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Antlr3.Runtime.pdb
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.AspNet.Identity.Core.xml
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.Owin.xml
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.Owin.Security.xml
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.Owin.Security.Facebook.xml
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.Owin.Security.Cookies.xml
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.Owin.Security.OAuth.xml
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.Owin.Security.Google.xml
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.Owin.Security.Twitter.xml
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\obj\Debug\Web.dll
+c:\Users\Lucard\Documents\Visual Studio 2013\Projects\StrengthProject\Web\obj\Debug\Web.pdb
+G:\StrengthProject\Web\bin\Web.dll.config
+G:\StrengthProject\Web\bin\Web.dll
+G:\StrengthProject\Web\bin\Web.pdb
+G:\StrengthProject\Web\bin\Antlr3.Runtime.dll
+G:\StrengthProject\Web\bin\EntityFramework.dll
+G:\StrengthProject\Web\bin\EntityFramework.SqlServer.dll
+G:\StrengthProject\Web\bin\Microsoft.AspNet.Identity.Core.dll
+G:\StrengthProject\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\StrengthProject\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\StrengthProject\Web\bin\Microsoft.Owin.dll
+G:\StrengthProject\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\StrengthProject\Web\bin\Microsoft.Owin.Security.Cookies.dll
+G:\StrengthProject\Web\bin\Microsoft.Owin.Security.dll
+G:\StrengthProject\Web\bin\Microsoft.Owin.Security.Facebook.dll
+G:\StrengthProject\Web\bin\Microsoft.Owin.Security.Google.dll
+G:\StrengthProject\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\StrengthProject\Web\bin\Microsoft.Owin.Security.OAuth.dll
+G:\StrengthProject\Web\bin\Microsoft.Owin.Security.Twitter.dll
+G:\StrengthProject\Web\bin\Microsoft.Web.Infrastructure.dll
+G:\StrengthProject\Web\bin\Newtonsoft.Json.dll
+G:\StrengthProject\Web\bin\Owin.dll
+G:\StrengthProject\Web\bin\System.Web.Helpers.dll
+G:\StrengthProject\Web\bin\System.Web.Mvc.dll
+G:\StrengthProject\Web\bin\System.Web.Optimization.dll
+G:\StrengthProject\Web\bin\System.Web.Razor.dll
+G:\StrengthProject\Web\bin\System.Web.WebPages.Deployment.dll
+G:\StrengthProject\Web\bin\System.Web.WebPages.dll
+G:\StrengthProject\Web\bin\System.Web.WebPages.Razor.dll
+G:\StrengthProject\Web\bin\WebGrease.dll
+G:\StrengthProject\Web\bin\EntityFramework.xml
+G:\StrengthProject\Web\bin\EntityFramework.SqlServer.xml
+G:\StrengthProject\Web\bin\System.Web.Helpers.xml
+G:\StrengthProject\Web\bin\System.Web.Mvc.xml
+G:\StrengthProject\Web\bin\System.Web.Optimization.xml
+G:\StrengthProject\Web\bin\System.Web.Razor.xml
+G:\StrengthProject\Web\bin\System.Web.WebPages.xml
+G:\StrengthProject\Web\bin\System.Web.WebPages.Deployment.xml
+G:\StrengthProject\Web\bin\System.Web.WebPages.Razor.xml
+G:\StrengthProject\Web\bin\Newtonsoft.Json.xml
+G:\StrengthProject\Web\bin\Antlr3.Runtime.pdb
+G:\StrengthProject\Web\bin\Microsoft.AspNet.Identity.Core.xml
+G:\StrengthProject\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\StrengthProject\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\StrengthProject\Web\bin\Microsoft.Owin.xml
+G:\StrengthProject\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\StrengthProject\Web\bin\Microsoft.Owin.Security.xml
+G:\StrengthProject\Web\bin\Microsoft.Owin.Security.Facebook.xml
+G:\StrengthProject\Web\bin\Microsoft.Owin.Security.Cookies.xml
+G:\StrengthProject\Web\bin\Microsoft.Owin.Security.OAuth.xml
+G:\StrengthProject\Web\bin\Microsoft.Owin.Security.Google.xml
+G:\StrengthProject\Web\bin\Microsoft.Owin.Security.Twitter.xml
+G:\StrengthProject\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\StrengthProject\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+G:\StrengthProject\Web\obj\Debug\Web.dll
+G:\StrengthProject\Web\obj\Debug\Web.pdb
+F:\StrengthProject\Web\bin\Web.dll.config
+F:\StrengthProject\Web\bin\Web.dll
+F:\StrengthProject\Web\bin\Web.pdb
+F:\StrengthProject\Web\bin\Antlr3.Runtime.dll
+F:\StrengthProject\Web\bin\EntityFramework.dll
+F:\StrengthProject\Web\bin\EntityFramework.SqlServer.dll
+F:\StrengthProject\Web\bin\Microsoft.AspNet.Identity.Core.dll
+F:\StrengthProject\Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\StrengthProject\Web\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\StrengthProject\Web\bin\Microsoft.Owin.dll
+F:\StrengthProject\Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\StrengthProject\Web\bin\Microsoft.Owin.Security.Cookies.dll
+F:\StrengthProject\Web\bin\Microsoft.Owin.Security.dll
+F:\StrengthProject\Web\bin\Microsoft.Owin.Security.Facebook.dll
+F:\StrengthProject\Web\bin\Microsoft.Owin.Security.Google.dll
+F:\StrengthProject\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\StrengthProject\Web\bin\Microsoft.Owin.Security.OAuth.dll
+F:\StrengthProject\Web\bin\Microsoft.Owin.Security.Twitter.dll
+F:\StrengthProject\Web\bin\Microsoft.Web.Infrastructure.dll
+F:\StrengthProject\Web\bin\Newtonsoft.Json.dll
+F:\StrengthProject\Web\bin\Owin.dll
+F:\StrengthProject\Web\bin\System.Web.Helpers.dll
+F:\StrengthProject\Web\bin\System.Web.Mvc.dll
+F:\StrengthProject\Web\bin\System.Web.Optimization.dll
+F:\StrengthProject\Web\bin\System.Web.Razor.dll
+F:\StrengthProject\Web\bin\System.Web.WebPages.Deployment.dll
+F:\StrengthProject\Web\bin\System.Web.WebPages.dll
+F:\StrengthProject\Web\bin\System.Web.WebPages.Razor.dll
+F:\StrengthProject\Web\bin\WebGrease.dll
+F:\StrengthProject\Web\bin\EntityFramework.xml
+F:\StrengthProject\Web\bin\EntityFramework.SqlServer.xml
+F:\StrengthProject\Web\bin\System.Web.Helpers.xml
+F:\StrengthProject\Web\bin\System.Web.Mvc.xml
+F:\StrengthProject\Web\bin\System.Web.Optimization.xml
+F:\StrengthProject\Web\bin\System.Web.Razor.xml
+F:\StrengthProject\Web\bin\System.Web.WebPages.xml
+F:\StrengthProject\Web\bin\System.Web.WebPages.Deployment.xml
+F:\StrengthProject\Web\bin\System.Web.WebPages.Razor.xml
+F:\StrengthProject\Web\bin\Newtonsoft.Json.xml
+F:\StrengthProject\Web\bin\Antlr3.Runtime.pdb
+F:\StrengthProject\Web\bin\Microsoft.AspNet.Identity.Core.xml
+F:\StrengthProject\Web\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\StrengthProject\Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\StrengthProject\Web\bin\Microsoft.Owin.xml
+F:\StrengthProject\Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\StrengthProject\Web\bin\Microsoft.Owin.Security.xml
+F:\StrengthProject\Web\bin\Microsoft.Owin.Security.Facebook.xml
+F:\StrengthProject\Web\bin\Microsoft.Owin.Security.Cookies.xml
+F:\StrengthProject\Web\bin\Microsoft.Owin.Security.OAuth.xml
+F:\StrengthProject\Web\bin\Microsoft.Owin.Security.Google.xml
+F:\StrengthProject\Web\bin\Microsoft.Owin.Security.Twitter.xml
+F:\StrengthProject\Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\StrengthProject\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+F:\StrengthProject\Web\obj\Debug\Web.dll
+F:\StrengthProject\Web\obj\Debug\Web.pdb
